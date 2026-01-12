@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "낼나샵 - 뽀모도로",
+      "category": "GOODS",
+      "categoryLabel": "GOODS",
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20250509/c8aa18c78bfaa.jpg",
+      "price": 20000,
+      "link": "https://nelna.shop/shop_view/?idx=7155&srsltid=AfmBOooZrmTUKyrDY5zb8yWOtVU-9eYX4nx6Ye4UwJYCWnZwIdRp5aR9",
+      "reason": "ADHD",
+      "isGot": false
+    },
+    {
+      "id": "2",
+      "title": "누하 서울 - Eyelet Laptop Pouch_Black",
+      "category": "GOODS",
+      "categoryLabel": "GOODS",
+      "imageUrl": "https://cdn.imweb.me/thumbnail/20250417/caf901107c7e8.jpg",
+      "price": 69000,
+      "link": "https://noohaseoul.com/all/?idx=47",
+      "reason": "발레코어 못참G",
+      "isGot": false
+    },
+    {
+      "id": "3",
+      "title": "그랑핸드 - Susie Salmon Multi Perfume",
+      "category": "GOODS",
+      "categoryLabel": "GOODS",
+      "imageUrl": "https://granhand.com/web/product/big/202510/d1500f411f5be071be1d323e0f05457a.jpg",
+      "price": 35000,
+      "link": "https://granhand.com/product/susie-salmon-multi-perfume/22",
+      "reason": "이거 필수 향수잔아.",
+      "isGot": false
+    },
+    {
+      "id": "4",
+      "title": "머지 - Foldy Wallet(Silent Dot)",
+      "category": "GOODS",
+      "categoryLabel": "GOODS",
+      "imageUrl": "https://heymerge.com/web/product/big/202512/3fc0e0c866442f357a43f41bdd035af6.png",
+      "price": 89000,
+      "link": "https://heymerge.com/product/foldy-wallet-silent-dot/214/category/49/display/1/",
+      "reason": "애플워치를 더욱 세련되게 만들어줄 스트랩",
+      "isGot": false
+    },
+    {
+      "id": "5",
+      "title": "메이플 22성 에테르넬",
+      "category": "GOODS",
+      "categoryLabel": "MAPLE",
+      "imageUrl": "https://yt3.ggpht.com/dFT4lM7hgV3B9Kl5C-R4ONSZ_Wot2JgGGPSnkwV9RpwdYfdrohg8BjktEefGHJXLJYLE2YoYfVekRQ=s688-nd-v1",
+      "price": 100000000,
+      "link": "https://singo.ngcc.go.kr/singo/portal/main.do",
+      "reason": "메이플스토리에서 꼭 필요한 아이템!",
+      "isGot": false
+    },
+    {
+      "id": "6",
+      "title": "요요 - own bag(brown)",
+      "category": "GOODS",
+      "categoryLabel": "GOODS",
+      "imageUrl": "https://img.29cm.co.kr/next-product/2022/09/07/b00af950874c4bc383b8f5e0eb91be56_20220907154301.jpg?width=700&format=webp",
+      "price": 35000,
+      "link": "https://www.29cm.co.kr/products/1710713",
+      "reason": "독서가방으로 쓰면 딱인데",
+      "isGot": false
+    },
+    {
+      "id": "7",
+      "title": "팀디바이더 - M-4",
+      "category": "GOODS",
+      "categoryLabel": "Red horse",
+      "imageUrl": "https://teamdivider.kr/wp-content/uploads/2024/04/4EA_Front_G1-1-uai-1000x1000.jpg",
+      "price": 14000,
+      "link": "https://teamdivider.kr/product/m-4/",
+      "reason": "그냥 '느껴'",
+      "isGot": false
+    },
+    {
+      "id": "8",
+      "title": "클로트  - 데일리 런치백(도트 블랙)",
+      "category": "GOODS",
+      "categoryLabel": "GOODS",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/prd_img/20251010/5576352/detail_5576352_17617295821327_big.jpg?w=780",
+      "price": 36000,
+      "link": "https://www.musinsa.com/products/5576352",
+      "reason": "도시락 싸가는 날에 들고가기 딱조흠",
+      "isGot": false
+    },
+    {
+      "id": "9",
+      "title": "큐라덴 - 큐라프록스 Travel set (여행용셋트)",
+      "category": "GOODS",
+      "categoryLabel": "GOODS",
+      "imageUrl": "https://image.oliveyoung.co.kr/cfimages/cf-goods/uploads/images/thumbnails/10/0000/0016/A00000016638616ko.jpg?l=ko&QT=85&SF=webp&sharpen=1x0.5",
+      "price": 32000,
+      "link": "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000166386",
+      "reason": "보부상 가방 안에는 칫솔 필수야",
+      "isGot": false
+    }, 
+    {
+      "id": "10",
+      "title": "더오필 - ROOM NOTE 105",
+      "category": "GOODS",
+      "categoryLabel": "GOOS",
+      "imageUrl": "https://contents.sixshop.com/thumbnails/uploadedFiles/139630/product/image_1677927723408_750.jpg",
+      "price": 45000,
+      "link": "https://www.theofill.com/product/Roomnote105",
+      "reason": "푹신푹신",
+      "isGot": false
+    }
+  ]
+}
