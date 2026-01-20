@@ -79,6 +79,17 @@
     },
     {
       "id": "8",
+      "title": "팀디바이더 - M-2",
+      "category": "GOODS",
+      "categoryLabel": "Red horse",
+      "imageUrl": "https://teamdivider.kr/wp-content/uploads/2024/04/4EA_Front_G1-1-uai-1000x1000.jpg",
+      "price": 10000,
+      "link": "https://teamdivider.kr/product/m-2/",
+      "reason": "소화제랑 진통제 넣기 좋을 거 같음",
+      "isGot": false
+    },
+    {
+      "id": "9",
       "title": "클로트  - 데일리 런치백(도트 블랙)",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -89,7 +100,7 @@
       "isGot": false
     },
     {
-      "id": "9",
+      "id": "10",
       "title": "큐라덴 - 큐라프록스 Travel set (여행용셋트)",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -100,7 +111,7 @@
       "isGot": false
     }, 
     {
-      "id": "10",
+      "id": "11",
       "title": "더오필 - ROOM NOTE 105",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -111,7 +122,7 @@
       "isGot": false
     },
     {
-      "id": "11",
+      "id": "12",
       "title": "로프리 - 플로우2(68,84)",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -122,7 +133,7 @@
       "isGot": false
     },
     {
-      "id": "12",
+      "id": "13",
       "title": "로지텍 - MX master 4(그래파이트)",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -133,7 +144,7 @@
       "isGot": false
     },
     {
-      "id": "13",
+      "id": "14",
       "title": "보스 - 울트라",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -144,7 +155,7 @@
       "isGot": false
     },
     {
-      "id": "14",
+      "id": "15",
       "title": "딥디크 - 플레르 드 뽀 오 드 퍼퓸",
       "category": "COSMETICS",
       "categoryLabel": "COSMETICS",
@@ -155,7 +166,7 @@
       "isGot": false
     },
     {
-      "id": "15",
+      "id": "16",
       "title": "바이레도 - 모하비고스트",
       "category": "COSMETICS",
       "categoryLabel": "COSMETICS",
@@ -166,7 +177,7 @@
       "isGot": false
     },
     {
-      "id": "16",
+      "id": "17",
       "title": "누엣 - Bunny Pencil Case(Black Dot)",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -177,7 +188,7 @@
       "isGot": false
     },
     {
-      "id": "17",
+      "id": "18",
       "title": "odditeeth - Naughty Bunny Case(Black) ",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -188,7 +199,7 @@
       "isGot": false
     },
     {
-      "id": "18",
+      "id": "19",
       "title": "조셉앤스테이시 - 헤이즈 트래블 월렛 헬로키티(블랙)",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -199,7 +210,7 @@
       "isGot": false
     },
     {
-      "id": "19",
+      "id": "20",
       "title": "라온쥬르 - 미니 뿌리는 스프레이 휴대용손소독제",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -210,7 +221,7 @@
       "isGot": false
     },
     {
-      "id": "20",
+      "id": "21",
       "title": "GRAGG - DOUBLE LAYERS CASE(CLEAR)",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -221,7 +232,7 @@
       "isGot": false
     },
     {
-      "id": "21",
+      "id": "22",
       "title": "보바 - 고속충전 대용량 보조배터리 20000mAh 22.5W VA-121",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -232,7 +243,7 @@
       "isGot": false
     },
     {
-      "id": "22",
+      "id": "23",
       "title": "포트레이트서울 - 캔버스 빅 쇼퍼백 5colors",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -243,7 +254,7 @@
       "isGot": false
     },
     {
-      "id": "23",
+      "id": "24",
       "title": "아이패드 프로 13인치 M5",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -254,7 +265,7 @@
       "isGot": false
     },
     {
-      "id": "24",
+      "id": "25",
       "title": "태태모모 - 비건 레더 숄더백 (+빅 파우치 증정)",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -265,7 +276,7 @@
       "isGot": false
     },
     {
-      "id": "25",
+      "id": "26",
       "title": "일부세토 - Leather Card Holder With Magnetic(Black)",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -276,7 +287,7 @@
       "isGot": false
     },
     {
-      "id": "26",
+      "id": "27",
       "title": "올챌린지 미니 포켓 물티슈 8매 10팩",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -287,7 +298,7 @@
       "isGot": false
     },
     {
-      "id": "27",
+      "id": "28",
       "title": "헬로튜드 - Big tote bag - Heavy stripe denim",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -298,7 +309,7 @@
       "isGot": false
     },
     {
-      "id": "28",
+      "id": "29",
       "title": "포지타니 - Ribbon tie pouch 태블릿 노트북 파우치 (L)",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -309,7 +320,7 @@
       "isGot": false
     },
     {
-      "id": "29",
+      "id": "30",
       "title": "애프터먼데이 - 2-way shoulder bag(Black)",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -320,7 +331,7 @@
       "isGot": false
     },
     {
-      "id": "30",
+      "id": "31",
       "title": "키크론 - B1 Pro 무선 텐키리스 키보드(Red)",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -331,7 +342,7 @@
       "isGot": false
     },
     {
-      "id": "31",
+      "id": "32",
       "title": "프레임 - DW STAND PLUS",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -342,7 +353,7 @@
       "isGot": false
     }, 
     {
-      "id": "32",
+      "id": "33",
       "title": "엑스피펜 - Artist 12(3세대) 액정타블렛 리뉴얼 16K 2025 아티스트",
       "category": "GOODS",
       "categoryLabel": "GOODS",
@@ -353,14 +364,58 @@
       "isGot": false
     },
     {
-      "id": "33",
+      "id": "34",
       "title": "언더컨트롤 스튜디오 - 카드지갑 STAINLESS 6 CARD HOLDER",
       "category": "GOODS",
       "categoryLabel": "GOODS",
       "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20250916/5467675/5467675_17661121995096_big.jpg?w=1200",
       "price": 25000,
       "link": "https://musinsa.onelink.me/PvkC/dz5vhjvq",
+      "reason": "명함같은 거 넣으면 똭..",
+      "isGot": false
+    },
+    {
+      "id": "35",
+      "title": "몽유룸 - SCAR (블랙) 스터드 크랙 가죽 아이폰케이스 프로기종",
+      "category": "GOODS",
+      "categoryLabel": "GOODS",
+      "imageUrl": "https://shop-phinf.pstatic.net/20251015_93/1760457…EG/14633161263520921_1001453132.jpg?type=m1000_pd",
+      "price": 53000,
+      "link": "https://smartstore.naver.com/monguroom/products/12494572812",
       "reason": "아이패드랑 노트북 같이 보기 편한듯?!",
+      "isGot": false
+    },
+    {
+      "id": "36",
+      "title": "플라우드 코리아 - 플라우드노트 Pro GPT AI 녹음기 노트 프로 64GB",
+      "category": "GOODS",
+      "categoryLabel": "GOODS",
+      "imageUrl": "https://shop-phinf.pstatic.net/20251121_146/176370…NG/97834942357997900_1231234282.png?type=m1000_pd",
+      "price": 319000,
+      "link": "https://smartstore.naver.com/kentia/products/12696749368",
+      "reason": "AI 녹음기 이거 유용해보임",
+      "isGot": false
+    },
+    {
+      "id": "37",
+      "title": "팬톤리빙 - 팬톤 카드명함케이스(쿨그레이9)",
+      "category": "GOODS",
+      "categoryLabel": "GOODS",
+      "imageUrl": "https://image.msscdn.net/thumbnails/images/goods_img/20221202/2968724/2968724_1_big.jpg?w=1200",
+      "price": 23000,
+      "link": "https://www.musinsa.com/products/2968724",
+      "reason": "플라스틱 아쉽긴한데,,아 근데 이쁨",
+      "isGot": false
+    },
+    {
+      "id": "38",
+      "title": "디어엔 - 레프 블랙 백",
+      "category": "GOODS",
+      "categoryLabel": "GOODS",
+      "imageUrl": "https://dearn.co.kr/web/upload/NNEditor/20251116/IMG_6707.png",
+      "price": 39000,
+      "link": "https://dearn.co.kr/product/%EB%A0%88%ED%94%84-%EB%B8%94%EB%9E%99-%EB%B0%B1-best/5787/category/39/display/1/",
+      "reason": "이런 가방을 원했다우, 안에 두칸 나뉜거!!!",
       "isGot": false
     }
   ]
