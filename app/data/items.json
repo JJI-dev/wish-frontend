@@ -82,7 +82,7 @@
       "title": "팀디바이더 - M-2",
       "category": "GOODS",
       "categoryLabel": "Red horse",
-      "imageUrl": "https://teamdivider.kr/wp-content/uploads/2024/04/4EA_Front_G1-1-uai-1000x1000.jpg",
+      "imageUrl": "https://teamdivider.kr/wp-content/uploads/2024/04/2EA_Front_G1-2.jpg",
       "price": 10000,
       "link": "https://teamdivider.kr/product/m-2/",
       "reason": "소화제랑 진통제 넣기 좋을 거 같음",
@@ -360,7 +360,7 @@
       "imageUrl": "https://resource.xp-pen.com/img/officialWebsite/Artist12_3rd/images/h5/1.webp",
       "price": 370000,
       "link": "https://smartstore.naver.com/xp-pen1/products/6022473473",
-      "reason": "아이패드랑 노트북 같이 보기 편한듯?!",
+      "reason": "액타 언젠간 사야해..",
       "isGot": false
     },
     {
@@ -379,10 +379,10 @@
       "title": "몽유룸 - SCAR (블랙) 스터드 크랙 가죽 아이폰케이스 프로기종",
       "category": "GOODS",
       "categoryLabel": "GOODS",
-      "imageUrl": "https://shop-phinf.pstatic.net/20251015_93/1760457…EG/14633161263520921_1001453132.jpg?type=m1000_pd",
+      "imageUrl": "https://shop-phinf.pstatic.net/20251015_93/1760457908463pQDIS_JPEG/14633161263520921_1001453132.jpg?type=m1000_pd",
       "price": 53000,
       "link": "https://smartstore.naver.com/monguroom/products/12494572812",
-      "reason": "아이패드랑 노트북 같이 보기 편한듯?!",
+      "reason": "케이스 나중에 바꾼다면 이거 사볼까봐",
       "isGot": false
     },
     {
@@ -390,7 +390,7 @@
       "title": "플라우드 코리아 - 플라우드노트 Pro GPT AI 녹음기 노트 프로 64GB",
       "category": "GOODS",
       "categoryLabel": "GOODS",
-      "imageUrl": "https://shop-phinf.pstatic.net/20251121_146/176370…NG/97834942357997900_1231234282.png?type=m1000_pd",
+      "imageUrl": "https://shop-phinf.pstatic.net/20251121_146/1763702081267niCg2_PNG/97834942357997900_1231234282.png?type=m1000_pd",
       "price": 319000,
       "link": "https://smartstore.naver.com/kentia/products/12696749368",
       "reason": "AI 녹음기 이거 유용해보임",
@@ -416,6 +416,17 @@
       "price": 39000,
       "link": "https://dearn.co.kr/product/%EB%A0%88%ED%94%84-%EB%B8%94%EB%9E%99-%EB%B0%B1-best/5787/category/39/display/1/",
       "reason": "이런 가방을 원했다우, 안에 두칸 나뉜거!!!",
+      "isGot": false
+    }, 
+    {
+      "id": "39",
+      "title": "소도시 - BLUE STRIPE SHIRTS POUCH M",
+      "category": "GOODS",
+      "categoryLabel": "GOODS",
+      "imageUrl": "https://contents.sixshop.com/thumbnails/uploadedFiles/39371/product/image_1764256229923_750.png",
+      "price": 39000,
+      "link": "https://www.sodoci.co.kr/product/SHIRTSPENCILCASE-188",
+      "reason": "셔츠 파우치라니 내 깔",
       "isGot": false
     }
   ]
