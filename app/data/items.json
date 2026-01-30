@@ -6,7 +6,7 @@
       "category": "GOODS",
       "categoryLabel": "GOODS",
       "imageUrl": "https://cdn.imweb.me/thumbnail/20250509/c8aa18c78bfaa.jpg",
-      "price": 20000,
+      "price": 35000,
       "link": "https://nelna.shop/shop_view/?idx=7155&srsltid=AfmBOooZrmTUKyrDY5zb8yWOtVU-9eYX4nx6Ye4UwJYCWnZwIdRp5aR9",
       "reason": "ADHD",
       "isGot": false
@@ -75,7 +75,7 @@
       "price": 14000,
       "link": "https://teamdivider.kr/product/m-4/",
       "reason": "그냥 '느껴'",
-      "isGot": false
+      "isGot": true
     },
     {
       "id": "8",

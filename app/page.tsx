@@ -34,9 +34,10 @@ export default function WishPage() {
                 <ItemCard
                   item={item}
                   onClick={() => {
-                    console.log("아이템 클릭됨:", item.title);
+                    // [변경] 클릭 시 주소창에 ?item=ID 추가
+                    window.history.pushState(null, "", `${item.id}`);
                     setSelectedItem(item);
-                  }}
+                  }}  
                 />
             </div>
           ))}
@@ -49,7 +50,12 @@ export default function WishPage() {
           <ItemModal 
             key={selectedItem.id}
             item={selectedItem}  
-            onClose={() => setSelectedItem(null)} />
+            onClose={() => {
+              // [변경] 모달 닫을 때 주소창에서 파라미터 제거
+              window.history.pushState(null, "", window.location.pathname);
+              setSelectedItem(null);
+            }} 
+          />
         )}
       </AnimatePresence>
     </div>
